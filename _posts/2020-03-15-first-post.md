@@ -1,5 +1,9 @@
 ---
-#### My First test post ####
+layout: post
+title:  "My First test post"
+description: Starting series of posts on technology
+categories: General 
+---
 
 This is my series of posts on technology tips, cheat-sheets, references of best practices in a unified place for everyone's use. 
 
