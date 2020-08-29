@@ -4,3 +4,6 @@
 
 layout: home
 ---
+My favorite site:
+
+Static site(https://mlpfim.neocities.org/)
